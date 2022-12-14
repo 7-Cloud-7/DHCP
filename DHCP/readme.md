@@ -50,3 +50,4 @@ subnet 10.0.9.0 netmask 255.255.255.0 {
 }
 ~~~
 
+Una vez configurado usaremos el comando "docker-compose up" y se levantará el servidor DHCP sin problema
