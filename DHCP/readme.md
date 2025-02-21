@@ -11,7 +11,7 @@ services:
         - ./data:/data
 ~~~
 
-Ahora dentro de la carpeta "data" crearemos un archivo llamado dhcp.comf para configurar las IPs y las redes. El archivo contendrá la siguiente configuracion:
+Ahora dentro de la carpeta "data" crearemos un archivo llamado dhcp.conf para configurar las IPs y las redes. El archivo contendrá la siguiente configuracion:
 
 ~~~
 # dhcpd.conf
